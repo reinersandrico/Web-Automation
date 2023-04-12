@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>error_message_login</name>
+   <tag></tag>
+   <elementGuidId>f741bb79-7b99-46c4-a834-e2842be94dc5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/form/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.alert.alert-danger.alert-dismissible.fade.show</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>001e2ffc-a362-4f26-bc8e-3ad3dc807b8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert-danger alert-dismissible fade show</value>
+      <webElementGuid>3260f9e8-985e-4f0c-a24b-c2d998661a72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>d09b5808-d724-4795-baf7-5bd8f0526c44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Silahkan cek email anda untuk melakukan verifikasi terlebih dahulu×</value>
+      <webElementGuid>505d4a44-d7a7-4634-8bb3-4700744346f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 form-register&quot;]/form[1]/div[@class=&quot;alert alert-danger alert-dismissible fade show&quot;]</value>
+      <webElementGuid>33958198-0167-401e-a4cd-da58c25b9f9a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/form/div</value>
+      <webElementGuid>94475da5-ea18-4f35-90b5-b9cbc916258b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::div[1]</value>
+      <webElementGuid>04903da2-fe5a-40a4-a19d-c345ff809ee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SecondHand.'])[1]/following::div[2]</value>
+      <webElementGuid>fdc1f206-ded9-4e1b-bc8c-636a3b07285c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::div[1]</value>
+      <webElementGuid>66443a62-0428-4890-993e-d4e8b6d9a7ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::div[2]</value>
+      <webElementGuid>38b33282-78a5-4a1e-87fe-44eef5903df9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div</value>
+      <webElementGuid>6308b9e3-987a-4ff0-8523-879d8c5f3a9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Silahkan cek email anda untuk melakukan verifikasi terlebih dahulu×' or . = 'Silahkan cek email anda untuk melakukan verifikasi terlebih dahulu×')]</value>
+      <webElementGuid>20ff68ad-c528-4938-a8a1-9f991a1ba87b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

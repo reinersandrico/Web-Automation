@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>item_produk6</name>
+   <tag></tag>
+   <elementGuidId>fc8d4c43-c10d-4fd2-b2bb-b245cf7c8dc7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div[50]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ae120d79-cb03-4c31-89d7-73e366da0b00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-title</value>
+      <webElementGuid>ba064708-fb4d-4cca-8299-01903ebcc085</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kamera Sony a6300</value>
+      <webElementGuid>6bae7745-fa04-4473-9fe5-dfc10e7875c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;pb-5&quot;]/div[@class=&quot;container pb-5&quot;]/div[@class=&quot;products&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/p[@class=&quot;card-title&quot;]</value>
+      <webElementGuid>0c4cd629-349d-4bef-8f76-8c87053fcac7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div[50]/div/p</value>
+      <webElementGuid>8fd330d8-b1dc-4bba-8552-cb05d0cd9df8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jual'])[1]/preceding::p[1281]</value>
+      <webElementGuid>f923548f-8a3d-4334-b3cd-d003d6137290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::p[1281]</value>
+      <webElementGuid>3295c913-82cc-4415-9ffb-bbeb0378ac46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kamera Sony a6300']/parent::*</value>
+      <webElementGuid>7ac618b6-c912-4669-a747-65f32e464f1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[50]/div/p</value>
+      <webElementGuid>acebbae6-9cd1-44e4-a404-c4c571851fdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Kamera Sony a6300' or . = 'Kamera Sony a6300')]</value>
+      <webElementGuid>b4faa40d-2d87-4894-966e-7ae6e56ea645</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

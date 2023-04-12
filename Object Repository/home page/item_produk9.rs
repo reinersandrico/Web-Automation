@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>item_produk9</name>
+   <tag></tag>
+   <elementGuidId>9e38c589-c6d4-4b31-9d5a-2014edd3883a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div[74]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>952e8336-8752-489e-a025-7a2ecdd43168</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-title</value>
+      <webElementGuid>aebda07b-0ac6-4c21-8dae-d35d7e90021d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BlueRay Avatar 2022</value>
+      <webElementGuid>6307336d-3dc4-4fce-9323-c97a9c709eef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;pb-5&quot;]/div[@class=&quot;container pb-5&quot;]/div[@class=&quot;products&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/p[@class=&quot;card-title&quot;]</value>
+      <webElementGuid>94923e93-f59b-45d9-bb04-f8ea91ea4bac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div[74]/div/p</value>
+      <webElementGuid>4ad9fdf7-ea4f-4585-8b69-bdc69226093f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jual'])[1]/preceding::p[1209]</value>
+      <webElementGuid>8966506b-6833-478b-b637-60b510f5617f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::p[1209]</value>
+      <webElementGuid>010d9170-766b-4586-9073-ab2c0c8d9dca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BlueRay Avatar 2022']/parent::*</value>
+      <webElementGuid>8388587c-b309-4d3a-90bc-95c7613e8c5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[74]/div/p</value>
+      <webElementGuid>6faf28e5-5f6f-42de-9141-576094bd40b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'BlueRay Avatar 2022' or . = 'BlueRay Avatar 2022')]</value>
+      <webElementGuid>1b7bf004-060c-4c32-8ef7-acc50b2c5ef6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

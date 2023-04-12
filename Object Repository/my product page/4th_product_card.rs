@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>4th_product_card</name>
+   <tag></tag>
+   <elementGuidId>21e3f24f-d31d-4cf8-ae8b-e58f968780b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.fade.position-absolute.top-0.start-50.translate-middle.alert.alert-danger.show</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8c532510-1afd-470f-b6da-025668852534</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>b28928f7-08bb-4363-87b5-7d1af2587366</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fade position-absolute top-0 start-50 translate-middle alert alert-danger show</value>
+      <webElementGuid>ee2541bd-5d2d-4aca-b414-18ae84814c05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tidak bisa menambahkan produk, karena sudah lebih dari 4. Silahkan hapus produk</value>
+      <webElementGuid>1b18d246-ae8b-48bc-a2c9-5f425f773c6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;fade position-absolute top-0 start-50 translate-middle alert alert-danger show&quot;]</value>
+      <webElementGuid>3176fc29-3b11-4246-bbb2-aa43f8163383</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]</value>
+      <webElementGuid>c427a613-80b4-4454-9ffb-c9d7f264ecc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terbitkan'])[1]/following::div[1]</value>
+      <webElementGuid>5d51d06b-a4ee-4989-be2a-305ab80b4007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview'])[1]/following::div[2]</value>
+      <webElementGuid>f93bfea5-01d2-4d72-a3c8-9d58a9a8a66b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::div[1]</value>
+      <webElementGuid>77133c12-4dc0-4572-874b-6125072266b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]</value>
+      <webElementGuid>b96f9af6-24d1-4637-a66d-3d2cb07c6ca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tidak bisa menambahkan produk, karena sudah lebih dari 4. Silahkan hapus produk' or . = 'Tidak bisa menambahkan produk, karena sudah lebih dari 4. Silahkan hapus produk')]</value>
+      <webElementGuid>1cf42b7b-e86d-40e1-bef5-62441734e9ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_hoby_AFAnime</name>
+   <tag></tag>
+   <elementGuidId>3db701a8-4ee3-4b29-98d2-9dad030a9b5e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div[16]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c5ea988a-65a3-4b76-87ed-522ca1b9fd5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-title</value>
+      <webElementGuid>9f841fee-2381-4655-94a1-ea6e13d538da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Action Figures Anime</value>
+      <webElementGuid>f3e21b6a-1410-4180-b2d5-2dc726f82d11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;pb-5&quot;]/div[@class=&quot;container pb-5&quot;]/div[@class=&quot;products&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/p[@class=&quot;card-title&quot;]</value>
+      <webElementGuid>f22d9d92-c6b8-407d-be56-43d1544e60ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div[16]/div/p</value>
+      <webElementGuid>4211c859-3961-4e79-92b0-559f10d4ea41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jual'])[1]/preceding::p[1311]</value>
+      <webElementGuid>1c625113-aa22-455f-b502-a9988ee345c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::p[1311]</value>
+      <webElementGuid>69bca9e0-58db-406f-bbd8-cb0e0cbc4aec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Action Figures Anime']/parent::*</value>
+      <webElementGuid>39326169-43d8-4f08-8955-6bc0ebd71cb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/div/p</value>
+      <webElementGuid>b188189c-0a23-4ab0-aa0b-a4e67209bc82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Action Figures Anime' or . = 'Action Figures Anime')]</value>
+      <webElementGuid>693752f9-84b7-491b-815f-ddfe8020a062</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

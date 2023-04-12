@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_hapus</name>
+   <tag></tag>
+   <elementGuidId>ed615609-cb07-4c8a-941f-20fbd35c2bda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[3]/div/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-danger</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Hapus' or . = 'Hapus')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a5e17835-306c-4c18-abfb-908e57ada747</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-danger</value>
+      <webElementGuid>df5f8f16-02e9-4eb0-a9fd-9cbcb6ee3c18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hapus</value>
+      <webElementGuid>251927f1-6681-4dcd-a7cb-329253215578</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container pb-5&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;card product&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;d-flex flex-column mt-4&quot;]/button[@class=&quot;btn btn-danger&quot;]</value>
+      <webElementGuid>4f381c0a-823b-4175-bc97-f45834e67641</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[3]/div/div/div/button</value>
+      <webElementGuid>5b223213-46c7-4002-abaf-a4d9d52e7187</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 1.000,00'])[1]/following::button[1]</value>
+      <webElementGuid>682967e2-7850-4e68-a79f-3a860aa13184</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='penjualbanrdm'])[1]/following::button[1]</value>
+      <webElementGuid>dfaeed4c-2e9f-4879-bf99-42698588de3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::button[1]</value>
+      <webElementGuid>3816d31c-6e7c-4e0f-8457-ca0f0fbffede</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adhiwira Lokacarya'])[1]/preceding::button[2]</value>
+      <webElementGuid>8417e477-0fd0-434c-bba8-7d3383d68c1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hapus']/parent::*</value>
+      <webElementGuid>2739f88e-4828-4510-a41b-1c5cc3c9137f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/button</value>
+      <webElementGuid>ef610900-fb54-4a99-890b-3a64c7378669</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Hapus' or . = 'Hapus')]</value>
+      <webElementGuid>7b33e10c-f74e-4d26-837d-3a3c148e17a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

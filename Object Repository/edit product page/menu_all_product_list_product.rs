@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menu_all_product_list_product</name>
+   <tag></tag>
+   <elementGuidId>58c0e6dc-bb0e-4151-aa74-f80d3b65d96a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//i[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>bac9d1e2-f930-4bcb-ab3e-f09d7933871c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>65275482-7fdb-4f18-861e-e1e6149061e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>&quot;link&quot; active</value>
+      <webElementGuid>e5d3df83-3420-454e-bf8d-2076371fb09d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Semua Product</value>
+      <webElementGuid>afd13777-1a03-4fec-a830-870b7b04383f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;mt-4 pb-4 container&quot;]/div[@class=&quot;mt-4 row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;card category&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;py-2 text-decoration list-group list-group-flush&quot;]/button[@class=&quot;py-3 list-group-item list-group-item-action&quot;]/i[@class=&quot;&quot;link&quot; active&quot;]</value>
+      <webElementGuid>9a92930f-33cc-4ac4-a2d9-8e5058fb7b88</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//i[@type='button']</value>
+      <webElementGuid>6962526e-453d-4686-ac6f-cf61d2748325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[3]/div/div/div/div/button/i</value>
+      <webElementGuid>e78a990e-4e60-4431-b414-99e46ac63fd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[1]/following::i[1]</value>
+      <webElementGuid>a16c4c88-b202-4139-83fe-5a6307de061d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::i[1]</value>
+      <webElementGuid>56058946-80d7-42d0-a1c1-b0610bc3d617</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Semua Product']/parent::*</value>
+      <webElementGuid>329ac8b0-0a52-4c55-b4c1-ca3fb58b756c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>60f64972-b57d-4899-8224-12bcf28a148a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@type = 'button' and (text() = ' Semua Product' or . = ' Semua Product')]</value>
+      <webElementGuid>23182e1e-5798-47bd-9b07-bf71045ffaa6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

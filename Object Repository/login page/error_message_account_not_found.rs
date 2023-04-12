@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>error_message_account_not_found</name>
+   <tag></tag>
+   <elementGuidId>b4dd4f8b-42ef-4a70-bf4b-0cb4a4595907</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/form/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.alert.alert-danger.alert-dismissible.fade.show</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b1b474b5-7feb-4120-a9da-578374a5a7db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert-danger alert-dismissible fade show</value>
+      <webElementGuid>8cb04a27-42fe-4401-b0f7-dcf3bd76b0c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>fe49fa31-8af8-4ba6-a416-818f40e2249f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Akun tidak ditemukan×</value>
+      <webElementGuid>12874fc1-2d68-491c-9799-b9994368a6da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 form-register&quot;]/form[1]/div[@class=&quot;alert alert-danger alert-dismissible fade show&quot;]</value>
+      <webElementGuid>ec55fde3-346c-42ce-a2db-3d874cd680f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/form/div</value>
+      <webElementGuid>dfdeab02-eb9a-4e08-b741-dc0478dabe76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::div[1]</value>
+      <webElementGuid>25949216-ade9-49ba-afe4-1fed5a77f2f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SecondHand.'])[1]/following::div[2]</value>
+      <webElementGuid>6f70d018-3e86-4576-b4fe-0bdc73c916e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::div[1]</value>
+      <webElementGuid>f7cdfca8-05c3-4084-9067-27548d0fe05a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::div[2]</value>
+      <webElementGuid>4da242db-fbff-4cca-8981-0a567a14a630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div</value>
+      <webElementGuid>686a2b18-dbda-478a-a39d-b372be5376fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Akun tidak ditemukan×' or . = 'Akun tidak ditemukan×')]</value>
+      <webElementGuid>64e06a9a-2cca-4365-b690-1b2a3b76a2ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

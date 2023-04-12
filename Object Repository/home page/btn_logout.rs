@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_logout</name>
+   <tag></tag>
+   <elementGuidId>28d47287-97c4-4592-9cf5-9e2ebb2dca74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.dropdown-item.btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarText']/ul/li[3]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e2965f24-34f6-458a-96fb-a6335ed88205</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item btn</value>
+      <webElementGuid>0aebaa8d-604c-4765-adf3-958dbc45a6a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log Out</value>
+      <webElementGuid>5c1440ed-e505-4f0f-86e4-1d8b9efc893c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarText&quot;)/ul[@class=&quot;navbar-nav me-auto mb-2 mb-lg-0&quot;]/li[@class=&quot;dropdown show&quot;]/div[@class=&quot;dropdown-menu dropdown-menu-right show&quot;]/button[@class=&quot;dropdown-item btn&quot;]</value>
+      <webElementGuid>72d8491a-e23b-4860-9e05-0a32e7626e4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarText']/ul/li[3]/div/button</value>
+      <webElementGuid>da0b7eeb-773b-41a9-845d-ef875b31813c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::button[1]</value>
+      <webElementGuid>4a15d65c-ad3f-4537-93c1-b59dcd9c414e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ditawar Rp 1.000,00'])[10]/following::button[2]</value>
+      <webElementGuid>512b7ec1-e9ea-496f-84f5-bed484bf6171</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bulan Ramadan Banyak Diskon!'])[1]/preceding::button[1]</value>
+      <webElementGuid>235d9a1e-928a-41ba-a80b-fb17a291ecc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Diskon Hingga 60%'])[1]/preceding::button[1]</value>
+      <webElementGuid>2209beb7-bf9f-4764-b78c-7841fbb806a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log Out']/parent::*</value>
+      <webElementGuid>9b393a52-dcc5-4502-8ad9-ab72e7ddb4c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button</value>
+      <webElementGuid>e212a839-072b-4bff-b5b4-aaf1a1b944e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Log Out' or . = 'Log Out')]</value>
+      <webElementGuid>5662ff57-f36d-4f93-803e-26ecac46044c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
